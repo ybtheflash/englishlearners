@@ -5,7 +5,7 @@ This file contains database configuration assuming you are running mysql using u
 
 define('DB_SERVER', 'localhost:3306');
 define('DB_USERNAME', 'ybtheflash');
-define('DB_PASSWORD', 'English@18Learners');
+define('DB_PASSWORD', '');
 define('DB_NAME', 'loginsys');
 
 // Try connecting to the Database
